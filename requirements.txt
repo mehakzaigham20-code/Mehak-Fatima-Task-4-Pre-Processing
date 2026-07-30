@@ -1,0 +1,9 @@
+feedparser
+requests
+beautifulsoup4
+lxml
+pandas
+googlenewsdecoder
+playwright
+nodriver
+feedparser

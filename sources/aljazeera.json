@@ -1,0 +1,26 @@
+[
+  {
+    "source": "AlJazeera",
+    "category": "world",
+    "query": "world news",
+    "rss": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "source": "AlJazeera",
+    "category": "business",
+    "query": "business",
+    "rss": "https://www.aljazeera.com/xml/rss/business.xml"
+  },
+  {
+    "source": "AlJazeera",
+    "category": "sports",
+    "query": "sports",
+    "rss": "https://www.aljazeera.com/xml/rss/sports.xml"
+  },
+  {
+    "source": "AlJazeera",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://www.aljazeera.com/xml/rss/technology.xml"
+  }
+]

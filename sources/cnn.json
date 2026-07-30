@@ -1,0 +1,68 @@
+[
+  {
+    "source": "CNN",
+    "category": "technology",
+    "query": "technology",
+    "rss": "http://rss.cnn.com/rss/edition_technology.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "business",
+    "query": "business",
+    "rss": "http://rss.cnn.com/rss/money_latest.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "world",
+    "query": "world",
+    "rss": "http://rss.cnn.com/rss/edition_world.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "health",
+    "query": "health",
+    "rss": "http://rss.cnn.com/rss/cnn_health.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "sports",
+    "query": "sports",
+    "rss": "http://rss.cnn.com/rss/edition_sport.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "entertainment",
+    "query": "entertainment",
+    "rss": "http://rss.cnn.com/rss/edition_entertainment.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "us",
+    "query": "US",
+    "rss": "http://rss.cnn.com/rss/edition_us.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "politics",
+    "query": "politics",
+    "rss": "http://rss.cnn.com/rss/cnn_allpolitics.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "travel",
+    "query": "travel",
+    "rss": "http://rss.cnn.com/rss/edition_travel.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "space",
+    "query": "space",
+    "rss": "http://rss.cnn.com/rss/edition_space.rss"
+  },
+  {
+    "source": "CNN",
+    "category": "showbiz",
+    "query": "showbiz",
+    "rss": "http://rss.cnn.com/rss/edition_showbiz.rss"
+  }
+]

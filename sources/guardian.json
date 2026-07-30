@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Guardian",
+    "category": "world",
+    "query": "world",
+    "rss": "https://www.theguardian.com/world/rss"
+  },
+  {
+    "source": "Guardian",
+    "category": "business",
+    "query": "business",
+    "rss": "https://www.theguardian.com/business/rss"
+  },
+  {
+    "source": "Guardian",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://www.theguardian.com/uk/technology/rss"
+  },
+  {
+    "source": "Guardian",
+    "category": "science",
+    "query": "science",
+    "rss": "https://www.theguardian.com/science/rss"
+  },
+  {
+    "source": "Guardian",
+    "category": "sport",
+    "query": "sport",
+    "rss": "https://www.theguardian.com/uk/sport/rss"
+  },
+  {
+    "source": "Guardian",
+    "category": "environment",
+    "query": "environment",
+    "rss": "https://www.theguardian.com/environment/rss"
+  }
+]

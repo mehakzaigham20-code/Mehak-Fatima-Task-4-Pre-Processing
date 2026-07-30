@@ -1,0 +1,44 @@
+[
+  {
+    "source": "Reuters",
+    "category": "business",
+    "query": "business",
+    "rss": "https://feeds.reuters.com/reuters/businessNews"
+  },
+  {
+    "source": "Reuters",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://feeds.reuters.com/reuters/technologyNews"
+  },
+  {
+    "source": "Reuters",
+    "category": "world",
+    "query": "world news",
+    "rss": "https://feeds.reuters.com/Reuters/worldNews"
+  },
+  {
+    "source": "Reuters",
+    "category": "science",
+    "query": "science",
+    "rss": "https://feeds.reuters.com/reuters/scienceNews"
+  },
+  {
+    "source": "Reuters",
+    "category": "sports",
+    "query": "sports",
+    "rss": "https://feeds.reuters.com/reuters/sportsNews"
+  },
+  {
+    "source": "Reuters",
+    "category": "health",
+    "query": "health",
+    "rss": "https://feeds.reuters.com/reuters/healthNews"
+  },
+  {
+    "source": "Reuters",
+    "category": "lifestyle",
+    "query": "lifestyle",
+    "rss": "https://feeds.reuters.com/reuters/lifestyle"
+  }
+]

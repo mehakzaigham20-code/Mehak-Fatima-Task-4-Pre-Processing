@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Forbes",
+    "category": "business",
+    "query": "business",
+    "rss": "https://www.forbes.com/business/feed/"
+  },
+  {
+    "source": "Forbes",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://www.forbes.com/technology/feed/"
+  },
+  {
+    "source": "Forbes",
+    "category": "innovation",
+    "query": "innovation",
+    "rss": "https://www.forbes.com/innovation/feed/"
+  },
+  {
+    "source": "Forbes",
+    "category": "leadership",
+    "query": "leadership",
+    "rss": "https://www.forbes.com/leadership/feed/"
+  },
+  {
+    "source": "Forbes",
+    "category": "money",
+    "query": "money",
+    "rss": "https://www.forbes.com/money/feed/"
+  },
+  {
+    "source": "Forbes",
+    "category": "entrepreneurs",
+    "query": "entrepreneurs",
+    "rss": "https://www.forbes.com/entrepreneurs/feed/"
+  }
+]

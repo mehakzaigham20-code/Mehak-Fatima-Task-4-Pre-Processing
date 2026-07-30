@@ -1,0 +1,74 @@
+[
+  {
+    "source": "TechCrunch",
+    "category": "hardware",
+    "query": "hardware",
+    "rss": "https://techcrunch.com/category/hardware/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "artificial-intelligence",
+    "query": "artificial intelligence",
+    "rss": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "security",
+    "query": "security",
+    "rss": "https://techcrunch.com/category/security/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "startups",
+    "query": "startups",
+    "rss": "https://techcrunch.com/category/startups/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "venture-capital",
+    "query": "venture capital",
+    "rss": "https://techcrunch.com/tag/venture-capital/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "fintech",
+    "query": "fintech",
+    "rss": "https://techcrunch.com/category/fintech/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "transportation",
+    "query": "transportation",
+    "rss": "https://techcrunch.com/category/transportation/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "space",
+    "query": "space",
+    "rss": "https://techcrunch.com/tag/space/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "robotics",
+    "query": "robotics",
+    "rss": "https://techcrunch.com/tag/robotics/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "mobile",
+    "query": "mobile",
+    "rss": "https://techcrunch.com/category/mobile/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "enterprise",
+    "query": "enterprise",
+    "rss": "https://techcrunch.com/category/enterprise/feed/"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "apps",
+    "query": "apps",
+    "rss": "https://techcrunch.com/category/apps/feed/"
+  }
+]

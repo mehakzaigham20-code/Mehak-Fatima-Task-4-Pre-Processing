@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Euronews",
+    "category": "world",
+    "query": "world news",
+    "rss": "https://www.euronews.com/rss"
+  },
+  {
+    "source": "Euronews",
+    "category": "business",
+    "query": "business",
+    "rss": "https://www.euronews.com/business/rss"
+  },
+  {
+    "source": "Euronews",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://www.euronews.com/next/rss"
+  }
+]

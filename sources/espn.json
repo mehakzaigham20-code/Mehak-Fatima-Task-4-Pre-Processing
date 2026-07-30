@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ESPN",
+    "category": "nba",
+    "query": "nba",
+    "rss": "https://www.espn.com/espn/rss/nba/news"
+  },
+  {
+    "source": "ESPN",
+    "category": "nfl",
+    "query": "nfl",
+    "rss": "https://www.espn.com/espn/rss/nfl/news"
+  },
+  {
+    "source": "ESPN",
+    "category": "cricket",
+    "query": "cricket",
+    "rss": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+  },
+  {
+    "source": "ESPN",
+    "category": "tennis",
+    "query": "tennis",
+    "rss": "https://www.espn.com/espn/rss/tennis/news"
+  },
+  {
+    "source": "ESPN",
+    "category": "formula1",
+    "query": "formula1",
+    "rss": "https://www.espn.com/espn/rss/f1/news"
+  },
+  {
+    "source": "ESPN",
+    "category": "mlb",
+    "query": "mlb",
+    "rss": "https://www.espn.com/espn/rss/mlb/news"
+  },
+  {
+    "source": "ESPN",
+    "category": "nhl",
+    "query": "nhl",
+    "rss": "https://www.espn.com/espn/rss/nhl/news"
+  }
+]

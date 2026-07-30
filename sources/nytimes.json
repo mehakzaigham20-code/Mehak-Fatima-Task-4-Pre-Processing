@@ -1,0 +1,44 @@
+[
+  {
+    "source": "NYTimes",
+    "category": "world",
+    "query": "world",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  },
+  {
+    "source": "NYTimes",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+  },
+  {
+    "source": "NYTimes",
+    "category": "science",
+    "query": "science",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+  },
+  {
+    "source": "NYTimes",
+    "category": "health",
+    "query": "health",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+  },
+  {
+    "source": "NYTimes",
+    "category": "education",
+    "query": "education",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml"
+  },
+  {
+    "source": "NYTimes",
+    "category": "business",
+    "query": "business",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+  },
+  {
+    "source": "NYTimes",
+    "category": "sports",
+    "query": "sports",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+  }
+]

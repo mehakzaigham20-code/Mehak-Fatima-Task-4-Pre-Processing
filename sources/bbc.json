@@ -1,0 +1,38 @@
+[
+  {
+    "source": "BBC",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+  },
+  {
+    "source": "BBC",
+    "category": "business",
+    "query": "business",
+    "rss": "https://feeds.bbci.co.uk/news/business/rss.xml"
+  },
+  {
+    "source": "BBC",
+    "category": "science",
+    "query": "science",
+    "rss": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+  },
+  {
+    "source": "BBC",
+    "category": "health",
+    "query": "health",
+    "rss": "https://feeds.bbci.co.uk/news/health/rss.xml"
+  },
+  {
+    "source": "BBC",
+    "category": "world",
+    "query": "world",
+    "rss": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+    "source": "BBC",
+    "category": "entertainment",
+    "query": "entertainment",
+    "rss": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+  }
+]

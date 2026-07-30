@@ -1,0 +1,56 @@
+[
+  {
+    "source": "Wired",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://www.wired.com/feed/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "AI",
+    "query": "AI",
+    "rss": "https://www.wired.com/feed/tag/ai/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "science",
+    "query": "science",
+    "rss": "https://www.wired.com/feed/category/science/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "security",
+    "query": "security",
+    "rss": "https://www.wired.com/feed/category/security/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "business",
+    "query": "business",
+    "rss": "https://www.wired.com/feed/category/business/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "gear",
+    "query": "gear",
+    "rss": "https://www.wired.com/feed/category/gear/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "culture",
+    "query": "culture",
+    "rss": "https://www.wired.com/feed/category/culture/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "ideas",
+    "query": "ideas",
+    "rss": "https://www.wired.com/feed/category/ideas/latest/rss"
+  },
+  {
+    "source": "Wired",
+    "category": "climate",
+    "query": "climate",
+    "rss": "https://www.wired.com/feed/category/climate/latest/rss"
+  }
+]

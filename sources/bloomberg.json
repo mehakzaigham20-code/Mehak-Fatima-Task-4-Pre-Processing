@@ -1,0 +1,50 @@
+[
+  {
+    "source": "Bloomberg",
+    "category": "markets",
+    "query": "markets",
+    "rss": "https://feeds.bloomberg.com/markets/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "technology",
+    "query": "technology",
+    "rss": "https://feeds.bloomberg.com/technology/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "economics",
+    "query": "economics",
+    "rss": "https://feeds.bloomberg.com/economics/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "politics",
+    "query": "politics",
+    "rss": "https://feeds.bloomberg.com/politics/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "business",
+    "query": "business",
+    "rss": "https://feeds.bloomberg.com/business/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "wealth",
+    "query": "wealth",
+    "rss": "https://feeds.bloomberg.com/wealth/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "industries",
+    "query": "industries",
+    "rss": "https://feeds.bloomberg.com/industries/news.rss"
+  },
+  {
+    "source": "Bloomberg",
+    "category": "energy",
+    "query": "energy",
+    "rss": "https://feeds.bloomberg.com/energy/news.rss"
+  }
+]
